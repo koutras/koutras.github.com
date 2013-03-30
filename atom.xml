@@ -4,7 +4,7 @@
   <title><![CDATA[Koutras A. Blog]]></title>
   <link href="http://koutras.github.com/atom.xml" rel="self"/>
   <link href="http://koutras.github.com/"/>
-  <updated>2013-03-31T01:25:47+02:00</updated>
+  <updated>2013-03-31T01:38:36+02:00</updated>
   <id>http://koutras.github.com/</id>
   <author>
     <name><![CDATA[Koutras A.]]></name>
@@ -19,8 +19,7 @@
     <updated>2013-03-31T01:22:00+02:00</updated>
     <id>http://koutras.github.com/blog/2013/03/31/bsc-thesis</id>
     <content type="html"><![CDATA[<p>I decided to upload the document for my BSc thesis.
-The only version I have right now is the greek one&#8230;
-File /Users/akis/octopress/octopress/source/~/Downloads/dokimi.pdf could not be found</p>
+The only version I have right now is the greek one&#8230;</p>
 ]]></content>
   </entry>
   
