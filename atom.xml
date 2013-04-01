@@ -4,7 +4,7 @@
   <title><![CDATA[Koutras A. Blog]]></title>
   <link href="http://koutras.github.com/atom.xml" rel="self"/>
   <link href="http://koutras.github.com/"/>
-  <updated>2013-04-01T14:49:30+03:00</updated>
+  <updated>2013-04-01T15:35:53+03:00</updated>
   <id>http://koutras.github.com/</id>
   <author>
     <name><![CDATA[Koutras A.]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[unity3d]]></title>
+    <link href="http://koutras.github.com/blog/2013/04/01/unity3d/"/>
+    <updated>2013-04-01T15:31:00+03:00</updated>
+    <id>http://koutras.github.com/blog/2013/04/01/unity3d</id>
+    <content type="html"><![CDATA[<p>Unity3d is a very interesting 3d game engine, and finding a promising tutorial
+from M2H from MikeHergaarden, I decided to give it a try, diving in, both in the game engine
+as well as in C# &#8230;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[revisiting pygame]]></title>
